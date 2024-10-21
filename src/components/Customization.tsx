@@ -1,4 +1,3 @@
-import React from "react";
 import { Edit, Type, Palette, Move, Image, XCircle } from "lucide-react";
 
 const Customization = () => {
